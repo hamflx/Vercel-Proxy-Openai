@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://api.openai.com/$1"}
+    {"source": "/(.*)", "destination": "https://dev-s6n5xslpcy24tquc.us.auth0.com/$1"}
   ]
 }
